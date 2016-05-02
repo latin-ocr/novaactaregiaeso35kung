@@ -1,0 +1,67 @@
+62 R. Runnnson,
+
+Les moyennes des valeurs correspondant ἐι un meme degre du cerole
+G, moyennes inserites dans la derniere ligne de ees tabkxaux, different sou-
+vent de beaucoup des valeurs particulieres dont elles ont ete deduites. Ne-
+anmoins, on voit aisement que les plus grands eearts qui se presentent ici,
+ne proviennent pas exclusivement d'erreurs d’observation‚ mais qu'ils 103111-
+tent prineipalement des positions defeetueuses du graduateur et de la pile ¹).
+De ees moyennes j’ai calcul3‚ par interpolation, le Tableau des deyre's de
+polarisation, qui a servi ἐι caleuler toutes les observations faisant partie du
+troisieme groupe. En executant cette interpolation on a tenu compte des
+differenees du second ordre tontes les fois que eela etait neeessaire. Je
+donne ici oe ‘cablaam seulement un peu abi-ege, dans lequel G indique la
+position de la pile, et N, le degre de polarisation qui y eorrespond.
+
+Tableau des ἄσεμνός de palari-salian
+servant ὰ calculer les valears absolues des observatiam du troisieime yroup e.
+
+ 
+
+ 
+
+ 
+
+G N Ι G N G Ν G N
+-350 0 640 13 1-440 0 480 21¹ Ἴ0440 0 500 460
+20 63 40 20 47 45 20 50 3
+40 63 6 40 47 10 40 49 30
+-330 0 62 33 -450 0 46 34 4450 0¹ 43 52
+20 61 59 20 45 53 20 43 13
+40 61 25 40 45 23 40 47 35
+-370 0 60 51 -460 0 44 47 ÷370 0¹ 330 20¹ 4430 0¹ 46 56
+20 60 16 20 44 10 20 62 46 20 46 17
+40 59 41 40 43 34 40 62 12 40 45 33
+-330 0 59 6 -470 0 42 57 Ἴι330 0 61 33 ÷470 0 44 53
+20 58 29 20 42 21 20 61 3 20 44 15
+40 57 51 40 41 45 40 60 27 40 43 32
+-390 0 57 14 -430 0 41 9 4390 0 59 52 ÷430 0 42 49
+20 56 39 ’ 20 40 33 20 59 17 20 42 7
+40 56 3 40 39 56 40 58 41 40 41 26
+-400 0 55 23 4- 490 0 39 20 ÷400 0¹ 53 6 ÷490 0¹ 40 45
+20 54 53 20 33 45 20 57 30 20 40 3
+40 54 17 40 33 10 40 56 55 40 39 31
+-410 0 53 42 - 500 0 37 35 4410 0¹ 56 19 -1-500 0¹ 38 55
+20 53 7 20 55 43 20 33 19
+40 52 31 40 55 7 40 37 44
+-420 0 51 56 ÷42⁰ 0¹ 54 30 ÷510 0¹ 37 9
+20 51 20 20 53 53 20 36 35
+40 50 44 40 53 16 40 36 1
+-430 0 50 3 4430 0 52 39 Ἷ0520 0 35 23
+20 49 32 20 52 2 20 34 55
+40 43 57 40 51 24
+
+ 
+
+ 
+
+ 
+
+ 
+
+————.————..-—-—---——
+¹) Quelques nombres presentant une differenee trop grande ont 3123 exelus au
+ealeul des moyennes. Ge sont ees nombres qu'on a mis entre parentheses dans les
+
+deux tableaux precedents.
+
